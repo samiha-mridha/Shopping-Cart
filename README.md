@@ -1,4 +1,4 @@
-# E-Commerce-Plateform-Shopping-Cart-System
+# Elegant-Shopping
 🛒 Simple E-Commerce Platform (Spring Boot + Bootstrap)
 
 This is a modern e-commerce shopping cart web application built using **Spring Boot** for the backend and **Bootstrap 5 + HTML** for the frontend, featuring a clean and responsive design.
